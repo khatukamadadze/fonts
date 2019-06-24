@@ -7,3 +7,14 @@
          url('../fonts/bpg-nino-mtavruli-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/bpg-nino-mtavruli-bold-webfont.svg#bpg_nino_mtavrulibold') format('svg'); /* Legacy iOS */
 }
+@font-face {
+    font-family: 'B612 Mono';
+    src: url('../fonts/B612Mono-Bold.eot');
+    src: url('../fonts/B612Mono-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/B612Mono-Bold.woff2') format('woff2'),
+        url('../fonts/../fonts/../fonts/B612Mono-Bold.woff') format('woff'),
+        url('../fonts/../fonts/B612Mono-Bold.ttf') format('truetype'),
+        url('../fonts/B612Mono-Bold.svg#B612Mono-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
