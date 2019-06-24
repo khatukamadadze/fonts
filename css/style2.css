@@ -59,3 +59,19 @@ span{
 .navigation-a{
 	text-decoration:none;
 }
+.article-pfo{
+	font-family: 'B612 Mono', monospace;
+	font-size:25px;
+}
+.article-pf{
+	font-family: "ALK Rounded Nusx Med", sans-serif;
+}
+.article-pt{
+	font-family: "ALK Rounded Nusx Med", sans-serif;
+}
+.article-fo{
+	font-family: 'Rubik Mono One', sans-serif;
+}
+.article-ps{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
