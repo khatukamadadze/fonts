@@ -9,6 +9,7 @@
 	width:570px;
 	background:#f2f2f2;
 	padding:10px;
+	font-family: 'Roboto Slab', sans-serif ;
 }
 .text{
 	width:345px;
@@ -36,6 +37,7 @@
 }
 .navigation-a{
 	margin-right:30px;
+	
 }
 .navigation-a{
 	text-decoration:none;
@@ -57,3 +59,7 @@ span{
 }
 .divider{
 	margin:0 30pt;
+}
+h3{
+	font-family: 'Roboto Slab', sans-serif;
+}
