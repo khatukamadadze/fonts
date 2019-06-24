@@ -43,3 +43,17 @@
 span{
 	color:red;
 }
+.image{
+	margin-top:80px;
+}
+.divider{
+	height:23pt;
+	width:2pt;
+	background:blue;
+}
+.footer-div{
+	margin-left:68pt;
+	margin-top:70px;
+}
+.divider{
+	margin:0 30pt;
